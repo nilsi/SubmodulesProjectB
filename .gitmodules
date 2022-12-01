@@ -1,0 +1,3 @@
+[submodule "SubmodulesDesignSystem"]
+	path = SubmodulesDesignSystem
+	url = git@github.com:nilsi/SubmodulesDesignSystem.git
